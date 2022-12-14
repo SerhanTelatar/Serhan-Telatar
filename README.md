@@ -4,7 +4,7 @@
 
 I'm Serhan from Turkey, and I do content on server-side and Development. I really enjoy learning languages, frameworks and libraries like Javascript, Node JS(Express) and Flutter(Dart language).
 
-Skills: Node JS / MongoDB / JS / Flutter / Python
+Skills: Node JS / MongoDB / JS / C++
 
 
 
